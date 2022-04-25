@@ -3,7 +3,7 @@ Create REST API for your app e.g. musci / sports / project db done
 
 create at least 5 routes : done
 send response as json, wip
-handle errors properly,  wip
+handle errors properly,  wipgit 
 send status codes to client 
 implement more routes as well (optional) wip
 
